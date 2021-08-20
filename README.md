@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning in Information Engineering at KMITL, Thailand 
 
 
-🥁 Drumming | 👨🏻‍💻 Coding | 🎮 Gaming
+  🥁 Drumming | 👨🏻‍💻 Coding | 🎮 Gaming
