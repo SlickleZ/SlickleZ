@@ -5,4 +5,4 @@ The student who has passion to learn everything he want. And he'll grow up to be
 🥁 Drumming | 👨🏻‍💻 Coding | 🎮 Gaming <br/> <br/>
 # My Github Stats
 <img align="center" height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlickleZ&theme=tokyonight&langs_count=5" /> &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=SlickleZ&count_private=true&theme=tokyonight&showicons=true" />
+<img src="https://github-readme-stats.vercel.app/api/?username=SlickleZ&count_private=true&theme=tokyonight&showicons=true" />
