@@ -11,6 +11,7 @@ The student who has passion to learn everything he want. And he'll grow up to be
 🥁 Drumming | 👨🏻‍💻 Coding | 🎮 Gaming
   
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SlickleZ&count_private=true&theme=tokyonight&showicons=true)]()
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlickleZ&theme=dracula" />
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SlickleZ&langs_count=5&theme=tokyonight)]()
+
 
 
