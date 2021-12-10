@@ -4,7 +4,7 @@ The student who has passion to learn everything he want. And he'll grow up to be
 🏫 I’m currently learning in Information Engineering at KMITL, Thailand <br/> <br/>
 🥁 Drumming | 👨🏻‍💻 Coding | 🎮 Gaming <br/> <br/>
 # My Github Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SlickleZ&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SlickleZ&count_private=true&theme=tokyonight&showicons=true)]() &nbsp; &nbsp; &nbsp;
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SlickleZ&langs_count=5&theme=tokyonight)]()
 
 
