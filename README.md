@@ -11,4 +11,4 @@ The student who has passion to learn everything he want. And he'll grow up to be
   🥁 Drumming | 👨🏻‍💻 Coding | 🎮 Gaming
   
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=SlickleZ&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlickleZ&theme=dracula" />
