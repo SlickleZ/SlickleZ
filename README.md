@@ -17,7 +17,11 @@ class SlickleZ:
             'cloud': ['AWS', 'GCP'],
             'misc': ['Kafka', 'Airflow', 'JMS']
         }
-        self.softSkills = ['Good team player', 'Challenge seeker', 'Positive thinking', 'Can-Do attitude', 'Learner and Teacher']
+        self.softSkills = ['Good team player',
+                            'Challenge seeker',
+                            'Positive thinking',
+                            'Can-Do attitude',
+                            'Learner and Teacher']
 
     def __str__(self):
         return f'{self.name} | {self.position} who has a passion for learning everything he wants.' \
