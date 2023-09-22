@@ -34,7 +34,6 @@ if __name__ == '__main__':
     me = SlickleZ()
     print(me)
 
-
 ```
 <br/>
 <p align="center"> 🥁 Drumming | 👨🏻‍💻 Coding | 🎮 Gaming </p>
@@ -48,3 +47,7 @@ if __name__ == '__main__':
         <b>Email: </b>
         <a href="mailto: kitikorn.pp@gmail.com">kitikorn.pp@gmail.com</a>
 </details>
+
+<br/>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31z3qxquxcvudf3cv3eqqtbvhp2a&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=10e5cc&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
