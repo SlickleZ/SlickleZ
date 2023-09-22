@@ -37,7 +37,12 @@ if __name__ == '__main__':
 ```
 <br/>
 <p align="center"> 🥁 Drumming | 👨🏻‍💻 Coding | 🎮 Gaming </p>
-<br/>
+</br>
+
+<div align="center">
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlickleZ&show_icons=true&theme=transparent)
+</div>
 
 <details>
     <summary><h2> 📞 Get in touch </h2></summary>
