@@ -1,4 +1,6 @@
-## Hello stranger! :wave:
+## Hello stranger! :wave: </h1>
+
+<br/>
 <p align="center">
     <img src="https://raw.githubusercontent.com/SlickleZ/SlickleZ/main/profile_banner.png" alt="SlickleZ profile banner">
 </p>
@@ -38,3 +40,11 @@ if __name__ == '__main__':
 <p align="center"> 🥁 Drumming | 👨🏻‍💻 Coding | 🎮 Gaming </p>
 <br/>
 
+<details>
+    <summary><h2> 📞 Get in touch </h2></summary>
+        <b>LinkedIn: </b>
+        <a href="https://www.linkedin.com/in/kitikorn-phaopun/">Kitikorn Phaopun</a>
+        </br>
+        <b>Email: </b>
+        <a href="mailto: kitikorn.pp@gmail.com">kitikorn.pp@gmail.com</a>
+</details>
