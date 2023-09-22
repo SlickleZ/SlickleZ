@@ -50,4 +50,4 @@ if __name__ == '__main__':
 
 <br/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31z3qxquxcvudf3cv3eqqtbvhp2a&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=10e5cc&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31z3qxquxcvudf3cv3eqqtbvhp2a&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1ad1ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
