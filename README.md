@@ -14,7 +14,7 @@ class SlickleZ:
         self.position = 'Fresh Graduate'
         self.code = {
             'programming': ['Python', 'SQL', 'Bash', 'Java', 'Go', 'React-Native'],
-            'database': ['PostgreSQL', 'MySQL', 'RethinkDB', 'Mongo DB'],
+            'database': ['PostgreSQL', 'MySQL', 'RethinkDB', 'MongoDB'],
             'devops': ['Docker', 'Linux'],
             'cloud': ['AWS', 'GCP'],
             'misc': ['Kafka', 'Airflow', 'JMS']
