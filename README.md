@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/SlickleZ/SlickleZ/main/profile_banner.png" alt="SlickleZ profile banner">
+    <img width="100%" src="https://raw.githubusercontent.com/SlickleZ/SlickleZ/main/profile_banner.png" alt="SlickleZ profile banner">
 </p>
 
 ```python
