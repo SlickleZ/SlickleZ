@@ -11,7 +11,7 @@ class SlickleZ:
     def __init__(self):
         self.username = 'SlickleZ'
         self.name = 'Kitikorn Phaopun'
-        self.position = 'Cloud Engineer'
+        self.position = 'Cloud Data Engineer'
         self.code = {
             'programming': ['Python', 'SQL', 'Bash', 'Java', 'Go', 'React-Native'],
             'database': ['PostgreSQL', 'MySQL', 'RethinkDB', 'MongoDB'],
